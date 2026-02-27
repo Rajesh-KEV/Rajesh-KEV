@@ -21,7 +21,7 @@
 - **Analytics Enablement & Consumption:** Tableau, Sigma
 ---
 ## Selected Highlights  
-- Built **enterprise data platforms from scratch** supporting **$300M+ ARR** SaaS businesses.  
+- Built **enterprise data platforms from scratch** supporting **Multi Million ARR** SaaS businesses.  
 - Designed **reliable, governed lakehouse architectures** used across Product, Finance, Sales, and Leadership.  
 - Implemented **DataOps and quality-first practices**, significantly reducing data incidents and improving trust.  
 - Enabled **GenAI-powered analytics** using RAG patterns on trusted enterprise data.  
